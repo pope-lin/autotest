@@ -1,0 +1,2 @@
+# autotest
+performance autotest
